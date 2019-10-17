@@ -8,13 +8,13 @@
     font-family: 'Montserrat Alternates', sans-serif;
     text-align: center;
     padding:15px;
+    width: 150px;
     
     
 }
   
 /* Colours for each box */
-.box1 { background:#eccc68;
-}
+.box1 { background:#eccc68;}
 .box1:hover{background:midnightblue ;}
 
 .box2 { background:#ff6348;}
@@ -35,7 +35,6 @@
 .container{
     display: flex;
     justify-content: space-between;
-    
-    
+    flex-wrap: wrap;
     
 }
