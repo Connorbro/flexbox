@@ -35,7 +35,7 @@
 .box10:hover { background:midnightblue;}
 .container{
     display: flex;
-    justify-content: center
+    justify-content: space-between;
     
     
 }
