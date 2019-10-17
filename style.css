@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
+
+* {box-sizing: border-box;}
+
+.box {
+    color: white;
+    font-size: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:15px;
+    
+    
+}
+  
+/* Colours for each box */
+.box1 { background:#eccc68;}
+.box1:hover{background:midnightblue ;}
+.box2 { background:#ff6348;}
+.box2:hover { background:midnightblue;}
+.box3 { background:#ff7f50;}
+.box3:hover { background:midnightblue;}
+.box4 { background:#ff4757;}
+.box4:hover { background: midnightblue;}
+.box5 { background:#f1c40f;}
+.box5:hover { background:midnightblue;}
+.box6 { background:#e67e22;}
+.box6:hover { background: midnightblue;}
+.box7 { background:#2ed573;}
+.box7:hover { background:midnightblue;}
+.box8 { background:#1e90ff;}
+.box8:hover { background:midnightblue;}
+.box9 { background:#c56cf0;}
+.box9:hover { background:midnightblue;}
+.box10 { background:#18dcff;}
+.box10:hover { background:midnightblue;}
+.container{
+    display: flex;
+    justify-content: center
+    
+    
+}
